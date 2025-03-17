@@ -1,4 +1,4 @@
-![Tweet Analysis](/Users/rohanmathew/Documents/GitHub/lab-markdown/tweet_analysis.png)
+![Tweet Analysis](tweet_analysis.png)
 
 
 **Description:** 
