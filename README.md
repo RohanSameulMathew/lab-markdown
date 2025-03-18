@@ -1,13 +1,8 @@
-![Tweet Analysis](tweet_analysis.png)
-
-
 **Description:** 
 
-This table and graph show the frequency of certain words in Trump's tweets from 2009-2018.
+This table and graph show the frequency of certain words of interest in Trump's tweets from 2009-2018.
 
-Total number of tweets is 36307
-
-counts= {'trump': 13924, 'russia': 412, 'obama': 2712, 'fake news': 333, 'jobs': 574, 'china': 548, 'maga': 394, 'liberal': 78}
+The total number of tweets is 36307
 
 |       Phrase       |  Percent of Tweets   |
 -------------------- | -------------------- |
@@ -19,3 +14,6 @@ counts= {'trump': 13924, 'russia': 412, 'obama': 2712, 'fake news': 333, 'jobs':
 |       obama        |        07.47         |
 |       russia       |        01.13         |
 |       trump        |        38.35         |
+
+
+![Tweet Analysis](tweet_analysis.png)
